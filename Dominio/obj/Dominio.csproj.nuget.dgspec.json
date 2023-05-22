@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "h:\\Proyectos Programacion\\C#\\ProyectoCore\\Dominio\\Dominio.csproj": {}
+    "H:\\Proyectos Programacion\\C#\\ProyectoCore\\Dominio\\Dominio.csproj": {}
   },
   "projects": {
-    "h:\\Proyectos Programacion\\C#\\ProyectoCore\\Dominio\\Dominio.csproj": {
+    "H:\\Proyectos Programacion\\C#\\ProyectoCore\\Dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "h:\\Proyectos Programacion\\C#\\ProyectoCore\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "H:\\Proyectos Programacion\\C#\\ProyectoCore\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "h:\\Proyectos Programacion\\C#\\ProyectoCore\\Dominio\\Dominio.csproj",
+        "projectPath": "H:\\Proyectos Programacion\\C#\\ProyectoCore\\Dominio\\Dominio.csproj",
         "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
-        "outputPath": "h:\\Proyectos Programacion\\C#\\ProyectoCore\\Dominio\\obj\\",
+        "outputPath": "H:\\Proyectos Programacion\\C#\\ProyectoCore\\Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

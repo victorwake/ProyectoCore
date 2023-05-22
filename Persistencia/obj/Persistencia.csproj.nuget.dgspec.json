@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "h:\\Proyectos Programacion\\C#\\ProyectoCore\\Persistencia\\Persistencia.csproj": {}
+    "H:\\Proyectos Programacion\\C#\\ProyectoCore\\Persistencia\\Persistencia.csproj": {}
   },
   "projects": {
-    "h:\\Proyectos Programacion\\C#\\ProyectoCore\\Dominio\\Dominio.csproj": {
+    "H:\\Proyectos Programacion\\C#\\ProyectoCore\\Dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "h:\\Proyectos Programacion\\C#\\ProyectoCore\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "H:\\Proyectos Programacion\\C#\\ProyectoCore\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "h:\\Proyectos Programacion\\C#\\ProyectoCore\\Dominio\\Dominio.csproj",
+        "projectPath": "H:\\Proyectos Programacion\\C#\\ProyectoCore\\Dominio\\Dominio.csproj",
         "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
-        "outputPath": "h:\\Proyectos Programacion\\C#\\ProyectoCore\\Dominio\\obj\\",
+        "outputPath": "H:\\Proyectos Programacion\\C#\\ProyectoCore\\Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -77,14 +77,14 @@
         }
       }
     },
-    "h:\\Proyectos Programacion\\C#\\ProyectoCore\\Persistencia\\Persistencia.csproj": {
+    "H:\\Proyectos Programacion\\C#\\ProyectoCore\\Persistencia\\Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "h:\\Proyectos Programacion\\C#\\ProyectoCore\\Persistencia\\Persistencia.csproj",
+        "projectUniqueName": "H:\\Proyectos Programacion\\C#\\ProyectoCore\\Persistencia\\Persistencia.csproj",
         "projectName": "Persistencia",
-        "projectPath": "h:\\Proyectos Programacion\\C#\\ProyectoCore\\Persistencia\\Persistencia.csproj",
+        "projectPath": "H:\\Proyectos Programacion\\C#\\ProyectoCore\\Persistencia\\Persistencia.csproj",
         "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
-        "outputPath": "h:\\Proyectos Programacion\\C#\\ProyectoCore\\Persistencia\\obj\\",
+        "outputPath": "H:\\Proyectos Programacion\\C#\\ProyectoCore\\Persistencia\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -104,8 +104,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "h:\\Proyectos Programacion\\C#\\ProyectoCore\\Dominio\\Dominio.csproj": {
-                "projectPath": "h:\\Proyectos Programacion\\C#\\ProyectoCore\\Dominio\\Dominio.csproj"
+              "H:\\Proyectos Programacion\\C#\\ProyectoCore\\Dominio\\Dominio.csproj": {
+                "projectPath": "H:\\Proyectos Programacion\\C#\\ProyectoCore\\Dominio\\Dominio.csproj"
               }
             }
           }
@@ -130,11 +130,11 @@
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[3.1.12, )"
+              "version": "[3.1.2, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "target": "Package",
-              "version": "[3.1.1, )"
+              "version": "[3.1.2, )"
             }
           },
           "imports": [

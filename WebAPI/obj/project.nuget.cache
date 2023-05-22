@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Vls/kHYLVbY0jj/6iwH4IIJ6dRCF1UdPJc8Wk4lrWUqaZxCqBu21XtihQbBcG9hhjRVOdZ0nYJd0z+azGUBcxg==",
-  "success": false,
-  "projectFilePath": "h:\\Proyectos Programacion\\C#\\ProyectoCore\\WebAPI\\WebAPI.csproj",
+  "dgSpecHash": "9agKWlxovVkfjKhz70nSZiEzEpWx+QKhlIvl2TcD80mGUskxOMot2vygQ5Ftoozd9rpfgM4Dw65ZL8gnvU6HTw==",
+  "success": true,
+  "projectFilePath": "H:\\Proyectos Programacion\\C#\\ProyectoCore\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\victo\\.nuget\\packages\\automapper\\8.1.1\\automapper.8.1.1.nupkg.sha512",
     "C:\\Users\\victo\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\6.1.1\\automapper.extensions.microsoft.dependencyinjection.6.1.1.nupkg.sha512",
@@ -20,14 +20,14 @@
     "C:\\Users\\victo\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\victo\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
     "C:\\Users\\victo\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
-    "C:\\Users\\victo\\.nuget\\packages\\microsoft.data.sqlclient\\1.1.3\\microsoft.data.sqlclient.1.1.3.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.data.sqlclient\\1.0.19269.1\\microsoft.data.sqlclient.1.0.19269.1.nupkg.sha512",
     "C:\\Users\\victo\\.nuget\\packages\\microsoft.entityframeworkcore\\3.1.2\\microsoft.entityframeworkcore.3.1.2.nupkg.sha512",
     "C:\\Users\\victo\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\3.1.2\\microsoft.entityframeworkcore.abstractions.3.1.2.nupkg.sha512",
     "C:\\Users\\victo\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\3.1.2\\microsoft.entityframeworkcore.analyzers.3.1.2.nupkg.sha512",
-    "C:\\Users\\victo\\.nuget\\packages\\microsoft.entityframeworkcore.design\\3.1.1\\microsoft.entityframeworkcore.design.3.1.1.nupkg.sha512",
-    "C:\\Users\\victo\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\3.1.12\\microsoft.entityframeworkcore.relational.3.1.12.nupkg.sha512",
-    "C:\\Users\\victo\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\3.1.12\\microsoft.entityframeworkcore.sqlserver.3.1.12.nupkg.sha512",
-    "C:\\Users\\victo\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\3.1.1\\microsoft.entityframeworkcore.tools.3.1.1.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.entityframeworkcore.design\\3.1.2\\microsoft.entityframeworkcore.design.3.1.2.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\3.1.2\\microsoft.entityframeworkcore.relational.3.1.2.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\3.1.2\\microsoft.entityframeworkcore.sqlserver.3.1.2.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\3.1.2\\microsoft.entityframeworkcore.tools.3.1.2.nupkg.sha512",
     "C:\\Users\\victo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\victo\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\3.1.2\\microsoft.extensions.caching.abstractions.3.1.2.nupkg.sha512",
     "C:\\Users\\victo\\.nuget\\packages\\microsoft.extensions.caching.memory\\3.1.2\\microsoft.extensions.caching.memory.3.1.2.nupkg.sha512",
@@ -151,15 +151,5 @@
     "C:\\Users\\victo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
     "C:\\Users\\victo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1605",
-      "level": "Error",
-      "message": "Warning As Error: Degradación del paquete detectada: Microsoft.EntityFrameworkCore de 3.1.12 a 3.1.2. Haga referencia al paquete directamente desde el proyecto para seleccionar una versión diferente. \r\n WebAPI -> Aplicacion -> Persistencia -> Microsoft.EntityFrameworkCore.SqlServer 3.1.12 -> Microsoft.EntityFrameworkCore.Relational 3.1.12 -> Microsoft.EntityFrameworkCore (>= 3.1.12) \r\n WebAPI -> Aplicacion -> Persistencia -> Microsoft.EntityFrameworkCore (>= 3.1.2)",
-      "libraryId": "Microsoft.EntityFrameworkCore",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v3.1"
-      ]
-    }
-  ]
+  "logs": []
 }

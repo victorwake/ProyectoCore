@@ -12,10 +12,16 @@ namespace WebAPI.Controllers
     public class WeatherForecastController : ControllerBase
     {
 
+        private readonly CursosOnlineContext context;
+
+        public WeatherForecastController(CursosOnlineContext _context){
+            this.context = _context;
+        }
+
+
         [HttpGet]
-        public IEnumerable<string> Get(){
-            string[] nombre = new[] { "Juan", "Pedro", "Maria", "Jose" };
-            return nombre;
+        public IEnumerable<Curso> Get(){
+            return context.Cursos.ToList();
         }
 
     }
